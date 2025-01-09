@@ -9,7 +9,7 @@ Application using Spring Boot, MySQL, JPA, and Hibernate.
 ## Steps for SETUP
 
 1. Clone the application:
-   git clone https://github.com/...
+   git clone https://github.com/bayramtturgutt/springboot-crud-develop.git
 
 2. Create the database in MySQL:
    create database notes_app
